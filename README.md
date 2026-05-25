@@ -84,7 +84,7 @@ Android Studio
 
 ▶ Como Executar
 1. Clonar o projeto
-git clone https://github.com/seuusuario/AppLogin.git
+git clone https://github.com/WesleyLeandro0606/AppLogin.git
 2. Abrir no Android Studio
 Clique em Open
 Selecione a pasta do projeto
